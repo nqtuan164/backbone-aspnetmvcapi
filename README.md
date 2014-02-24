@@ -10,12 +10,13 @@ Việc những trang web hiện đại được thiết kế với dạng Single
  * ([http://backbonetutorials.com/organizing-backbone-using-modules/](http://backbonetutorials.com/organizing-backbone-using-modules/))
 
 ## Có những gì trong project
- ### Server side
+
+### Server side
   * Cách tạo một project ASP.NET MVC4 
   * Cách viết một Web API với các phương thức GET, PUT, POST, DELETE
   * Xử lý CORS để tránh lỗi khi thực thi truy vấn khác tên miền qua Ajax
 
- ### Client side
+### Client side
   * Làm quen với Backbone.js
   * Thiết lập cấu trúc project với Require.js
   * Xây dựng hệ thống Route trong Backbone.js
