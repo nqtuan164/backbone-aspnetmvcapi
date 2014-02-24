@@ -5,7 +5,7 @@
 Việc những trang web hiện đại được thiết kế với dạng Single Page Application yêu cầu xử lý Javascript công phu thì với Backbone.js là một nền tảng cho phép bạn phát triển chúng dễ dàng.
 
 ## Contributions
-* Thanks to Thomas Davis for the great Backbone.js tutorial - Cảm ơn anh Thomas Davis vì những bài hướng dẫn thật tuyệt vời.
+* Thanks to Thomas Davis ([https://github.com/thomasdavis](https://github.com/thomasdavis))for the great Backbone.js tutorial - Cảm ơn anh Thomas Davis vì những bài hướng dẫn thật tuyệt vời.
 * [https://github.com/thomasdavis/backbonetutorials](https://github.com/thomasdavis/backbonetutorials)
 * [http://backbonetutorials.com/organizing-backbone-using-modules/](http://backbonetutorials.com/organizing-backbone-using-modules/)
 
