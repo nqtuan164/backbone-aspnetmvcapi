@@ -6,8 +6,8 @@ Việc những trang web hiện đại được thiết kế với dạng Single
 
 ## Contributions
 * Thanks to Thomas Davis for the great Backbone.js tutorial - Cảm ơn anh Thomas Davis vì những bài hướng dẫn thật tuyệt vời.
-* ([https://github.com/thomasdavis/backbonetutorials](https://github.com/thomasdavis/backbonetutorials))
-* ([http://backbonetutorials.com/organizing-backbone-using-modules/](http://backbonetutorials.com/organizing-backbone-using-modules/))
+* [https://github.com/thomasdavis/backbonetutorials](https://github.com/thomasdavis/backbonetutorials)
+* [http://backbonetutorials.com/organizing-backbone-using-modules/](http://backbonetutorials.com/organizing-backbone-using-modules/)
 
 ## Có những gì trong project
 
@@ -38,8 +38,8 @@ Việc những trang web hiện đại được thiết kế với dạng Single
 
 ### Liên hệ
 * Email: nqtuan164@gmail.com
-* Facebook: ([https://www.facebook.com/leeyool123](https://www.facebook.com/leeyool123))
-* Twitter: ([@leeyool123](https://twitter.com/leeyool123))
-* Google+: ([+NguyễnQuốcTuấn164](https://plus.google.com/u/0/+NguyễnQuốcTuấn164/))
+* Facebook: [https://www.facebook.com/leeyool123](https://www.facebook.com/leeyool123)
+* Twitter: [@leeyool123](https://twitter.com/leeyool123)
+* Google+: [+NguyễnQuốcTuấn164](https://plus.google.com/u/0/+NguyễnQuốcTuấn164/)
 
 
