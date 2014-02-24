@@ -1,0 +1,19 @@
+﻿<form role="form" class="edit-form">
+	<div class="form-group">
+		<label for="txtFirstName">First Name</label>
+		<input type="text" class="form-control" name="firstname" placeholder="Enter your first name" value="<%= user ? user.firstname : '' %>">
+	</div>
+	<div class="form-group">
+		<label for="txtLastName">Last Name</label>
+		<input type="text" class="form-control" name="lastname" placeholder="Enter your last name"  value="<%= user ? user.lastname : '' %>">
+	</div>
+	<div class="form-group">
+		<label for="txtAge">Age</label>
+		<input type="text" class="form-control" name="age" placeholder="Enter your age"  value="<%= user ? user.age : '' %>">
+	</div>
+
+	<% if(user) { %>
+		<input type="hidden" name="id" value="<%= user.id %>" />
+	<% } %>
+	<button type="submit" class="btn btn-default" id="edit-user-submit"><%= user ? 'Save' : 'Submit' %></button>
+</form>

@@ -1,0 +1,21 @@
+﻿<form class="delete-form">
+    <input type="hidden" value="<%= user.id %>" id="UserId" />
+    <table class="table">
+        <tr>
+            <td width="20%">First name:</td>
+            <td><%= user.firstname %></td>
+        </tr>
+        <tr>
+            <td>Last name:</td>
+            <td><%= user.lastname %></td>
+        </tr>
+        <tr>
+            <td>Age:</td>
+            <td><%= user.age %></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td><button class="btn btn-primary" id="delete-user-submit">Delete</button></td>
+        </tr>
+    </table>
+</form>
