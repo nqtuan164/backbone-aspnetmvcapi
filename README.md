@@ -1,6 +1,4 @@
 # Backbone.js and ASP.NET MVC4 WebApi
-# Hướng dẫn 
-=====================
 
 Đây chỉ là một demo nhỏ hướng dẫn sử dụng và kết nối Backbone.js với ASP.NET MVC4 WebApi, đây cũng chưa hẳng là một bài hướng dẫn tất tần tật về Backbone.js hay ASP.NET MVC. Rất mong mọi người đón nhận và cho ý kiến đóng góp.
 
